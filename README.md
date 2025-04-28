@@ -47,6 +47,40 @@ Primary Pages Overview
 
 Page Name	Description
 Property Listing View	Displays a grid or list of available properties with images, prices, and short descriptions. Users can filter and sort listings.
+
+
+**Design Properties**
+
+Color Styles
+Primary Color: Green (#2E7D32) (based on the button and splash screen color seen)
+
+Secondary Color: Dark Green / Black (#1B5E20) (for logo and text)
+
+Secondary Color (light): Light Gray (#EEEEEE) (backgrounds, lighter elements)
+
+Shimmer: Light Accent Color for Loading/Effects
+
+Typography
+Font Family: Likely a clean sans-serif (e.g., Poppins, Roboto, or similar) — check Figma properties if specified.
+
+Font Weights:
+
+Bold for headers (e.g., "Find your favorite place here")
+
+Regular for body text (email/password fields)
+
+Font Sizes:
+
+Large size (~24–32px) for headers
+
+Medium (~16–18px) for normal text and buttons
+
+Small (~12–14px) for captions (e.g., “Forgot Password?”, "Join now")
+
+Importance of Identifying Design Properties
+Understanding the color styles, typography, and design properties of a mockup ensures consistency throughout the project. It allows developers and designers to maintain the same look and feel across different pages and components. It also speeds up the development process, improves collaboration, and creates a more professional and polished final product. Proper alignment to the mockup builds trust with users and ensures a cohesive user experience across the platform.
+
+
 Listing Detailed View	Shows full details of a selected property, including images, amenities, location map, availability calendar, and a "Book Now" button.
 Simple Checkout View	A minimal page where users confirm their booking by entering basic details (name, dates, payment info) and completing the reservation.
 Importance of User-Friendly Design
