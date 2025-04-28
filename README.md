@@ -121,5 +121,20 @@ A user-friendly design is crucial in a booking system because it reduces frictio
 ### Scrum Master
 - Facilitates agile ceremonies (daily standups, sprint planning).
 - Helps the team stay on track and removes blockers.
+- 
+## UI Component Patterns
+
+### Navbar
+- A top navigation bar that provides links to key sections of the app like Home, Search, and Profile.
+- The navbar will also include a logo, a search bar, and user authentication options (login/signup).
+
+### Property Card
+- A card displaying a brief overview of each property, including an image, title, price, and key details like location and availability.
+- Clicking on a Property Card will navigate to the Listing Detailed View page.
+
+### Footer
+- A footer with links to the About Us, Terms of Service, and Privacy Policy pages.
+- The footer will be displayed at the bottom of all pages.
+
 
 
