@@ -86,3 +86,40 @@ Simple Checkout View	A minimal page where users confirm their booking by enterin
 Importance of User-Friendly Design
 A user-friendly design is crucial in a booking system because it reduces friction, builds trust, and improves the likelihood of users completing a booking. Clear layouts, intuitive navigation, and quick load times create a better user experience, leading to higher customer satisfaction and better conversion rates.
 
+
+## Project Roles and Responsibilities
+
+### Project Manager
+- Oversees the project and ensures deadlines are met.
+- Coordinates communication among team members.
+- Tracks project progress and reports to stakeholders.
+
+### Frontend Developer
+- Develops the user-facing side of the application.
+- Works closely with the UI/UX team to implement designs.
+
+### Backend Developer
+- Builds and maintains the server-side logic.
+- Ensures data flows seamlessly between the frontend and backend.
+
+### Designer
+- Creates wireframes, prototypes, and final designs for the application.
+- Collaborates with frontend developers to implement designs.
+
+### QA/Testers
+- Tests the application for bugs and usability issues.
+- Ensures the application meets quality standards before release.
+
+### DevOps Engineer
+- Manages deployment pipelines and cloud infrastructure.
+- Ensures the application is scalable and secure.
+
+### Product Owner
+- Defines the project goals and requirements.
+- Acts as the voice of the customer and prioritizes features.
+
+### Scrum Master
+- Facilitates agile ceremonies (daily standups, sprint planning).
+- Helps the team stay on track and removes blockers.
+
+
